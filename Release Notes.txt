@@ -1,0 +1,5 @@
+v021721
+-Can get read RFID cards and tags
+-Can get temperature 
+-Can create a individual shuttle manifesto
+-Can check RFID card employee registry
