@@ -1,3 +1,6 @@
+v022021
+-Tap duplicate detection added
+
 v021721
 -Can get read RFID cards and tags
 -Can get temperature 
